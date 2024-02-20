@@ -12,7 +12,7 @@ export function insertValues(subDimensionCount = 3)
 
     const cells = document.querySelectorAll("input");
     cells.forEach((cell) => {
-        if(cell.value)
+        if (cell.value)
         {
             sudokuBoard.push(parseInt(cell.value))
         }
