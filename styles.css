@@ -1,0 +1,30 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.message {
+    color: #ff0000;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid;
+}
+
+.subgridTop {
+    border-top: 3px solid;
+}
+
+.subgridLeft {
+    border-left: 3px solid;
+}
+
+input {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #000;
+}
